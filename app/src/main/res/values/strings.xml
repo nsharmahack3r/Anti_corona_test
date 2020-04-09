@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Anti Corona</string>
+    <string name="welcome_line">GET YOURSELF TESTED FOR COVID-19 NOW!</string>
+    <string name="start">Start</string>
+    <string name="splash_text">BE SAFE! IT\'S COMING.</string>
+    <string name="test_text">"Here we will ask you some questions and based on your response to them, we may determine what are your chances of being infected by corona virus. The end results may be different than clinical reports. Our test is based only on assumptions and appeared cases.</string>
+    <string name="card_1_text">TAKE A SIMPLE TEST TO SEE YOUR CHANCES OF BEING INFECTED.</string>
+    <string name="card_2_text">SYMPTOMS</string>
+    <string name="card_3_text">PRECAUTIONS</string>
+    <string name="card_4_text">SEE CURRENT SATISTICS</string>
+    <string name="ques_1">Do you have fever ?</string>
+    <string name="ques_2">Do you have cough ?</string>
+    <string name="ques_3">Do you have headache ?</string>
+    <string name="ques_4">Do you face trouble while breathing ?</string>
+    <string name="ques_5">Do you feel weakness ?</string>
+    <string name="res_main">This test was completely based on assumptions and calculations. We strongly encourage you to go for a proper clinical test.</string>
+    <string name="res_safe">Congratulations! You are safe! Your chances of being infected are  </string>
+    <string name="res_mild">You Are Safe!But a clinical test would be essential. Your chances of being infected are  </string>
+    <string name="res_strong">Go for a checkup immediately! You may be infected. Your chances of being infected are  </string>
+    <string name="Fever_symptom">If you have fever as high as 103 or 104 f, you have a high chance of covid-19 infection.</string>
+    <string name="cough_symptom">Dry cough is a sign of infection and a clinical test is recommended.</string>
+    <string name="breath_symptom">If you face difficulty in breathing, then yes get yourself checked up.</string>
+    <string name="weakness_symptom">Covid-19 can cause prolonged weakness in patients.</string>
+    <string name="hand_wash_precaution">Wash your hands every two hours. This app is equipped with a remainder that would pop up every 30 minutes to remind you the same.</string>
+    <string name="social_distance">Maintain social distancing to help reduce the spread of the disease.</string>
+    <string name="masks">Use masks while going out or if suffering from flu. </string>
+    <string name="cover">Cover your mouth while you cough.</string>
+    <string name="splash_title">ANTI CORONA</string>
+    <string name="splash_subtext">Tron PC</string>
+    <string name="handwash">HAND WASH REMAINDER</string>
+    <string name="op_1">No</string>
+    <string name="op_2">YES, 103f</string>
+    <string name="op_3">YES, 104f</string>
+</resources>

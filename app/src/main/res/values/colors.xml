@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="faded">#59000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="btn_green">#8DC065</color>
+    <color name="ques_1">#F49619</color>
+    <color name="ques_2">#80503F</color>
+    <color name="ques_3">#203864</color>
+    <color name="ques_4">#D90002</color>
+    <color name="ques_5">#8FAADC</color>
+    <color name="switch_thumb">#8DC065</color>
+    <color name="switch_track">#928DC065</color>
+</resources>
